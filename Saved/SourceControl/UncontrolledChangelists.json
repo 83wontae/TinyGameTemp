@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/wontae/TinyGameTemp/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/Unit/BP_Unit.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/Unit/TeamSysComponent.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/AI/Task_FollowMaster.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/Blueprint/BP_SpawnArea.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/Blueprint/BP_EnemySpawnArea.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/Unit/EquipComponent.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/Unit/StateComponent.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/Animations/AnimNotify_AttackNotify.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/Weapon/BP_Arrow.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/Weapon/BP_Weapon.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/AI/Task_FindEnemy.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/Animations/ABP_Base.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/Unit/BPI_Unit.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/Animations/ABP_Infantry.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/Unit/SkillComponent.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/Blueprint/BP_SpawnArea1.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/Nametag/BP_NameTagComponent.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/AI/Deco_TargetInRange.uasset",
+				"D:/wontae/TinyGameTemp/Content/TinyGame/AI/BP_UnitAIController.uasset"
+			]
+		}
+	]
+}
